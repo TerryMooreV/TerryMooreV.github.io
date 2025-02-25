@@ -115,9 +115,9 @@ analytics:
 author:
   name             : "Terry Moore"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I am a second year at the Georgia Institute of Technology. I am majoing in Business and Minoring in Computer Sceince and in FinTech."
+  location         : "Atlanta, GA"
+  email            : "Terry.l.moore@gatech.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
