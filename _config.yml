@@ -1,10 +1,7 @@
 # Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
 
 # Theme Settings
-minimal_mistakes_skin    : "mint" # Professional and clean look
+minimal_mistakes_skin    : "aqua" # Reverted to original skin
 
 # Site Settings
 locale                   : "en-US"
@@ -95,3 +92,7 @@ defaults:
       read_time: true
       share: true
       related: true
+
+# Exclude unnecessary files to prevent errors
+exclude:
+  - CHANGELOG.md
