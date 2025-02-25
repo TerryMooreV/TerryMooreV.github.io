@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Terry Moore"
-  avatar           :  "docs/assets/images/BIO_Pic.JPG"
+  avatar           : "docs/assets/images/BIO_Pic.JPG"
   bio              : "I am a second year at the Georgia Institute of Technology. I am majoing in Business and Minoring in Computer Sceince and in FinTech."
   location         : "Atlanta, GA"
   email            : "Terry.l.moore@gatech.edu"
